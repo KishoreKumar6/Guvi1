@@ -1,0 +1,11 @@
+npm init -y
+npm install mongodb express nodemon
+"dev" : "nodemon app.js"
+
+write the code to connect to the mongodb
+db.js
+modal 
+controller
+middlewares (optional)
+routes 
+app.js

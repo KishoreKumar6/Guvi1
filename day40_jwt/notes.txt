@@ -1,0 +1,11 @@
+JWT -> JSON WEB TOKEN use for the Authentication purpose
+
+token... user infromatin...usernname pwd name....
+
+token contains the user information
+
+JWT conatins three parts
+
+1) header....token type
+2) payload...(contains user the information)
+3) signature....(token integrity)
